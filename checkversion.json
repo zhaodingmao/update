@@ -1,7 +1,79 @@
 {
   "sessionID": "2022",
   "version": "3.0.6",
-  "downloadUrl": "https://github.com/zhaodingmao/update/raw/main/SC-Reader_v3.0.6.exe",
   "updateLogUrl": "http://baidu.com",
-  "md5": "6d080e363ed3ff3c83f826ae556104b4"
+  "platforms": {
+    "windows": {
+      "x86": {
+        "downloadUrl": "https://github.com/zhaodingmao/update/raw/main/SC-Reader_v3.0.6.exe",
+        "md5": "6d080e363ed3ff3c83f826ae556104b4"
+      },
+      "x64": {
+        "downloadUrl": "https://github.com/zhaodingmao/update/raw/main/SC-Reader_v3.0.6.exe",
+        "md5": "6d080e363ed3ff3c83f826ae556104b4"
+      }
+    },
+    "linux": {
+      "x86": {
+        "rpm": {
+          "downloadUrl": "https://github.com/zhaodingmao/update/raw/main/SC-Reader_v3.0.6.rpm",
+          "md5": "6d080e363ed3ff3c83f826ae556104b4"
+        },
+        "deb": {
+          "downloadUrl": "https://github.com/zhaodingmao/update/raw/main/SC-Reader_v3.0.6.deb",
+          "md5": "6d080e363ed3ff3c83f826ae556104b4"
+        }
+      },
+      "x86_64": {
+        "rpm": {
+          "downloadUrl": "https://github.com/zhaodingmao/update/raw/main/SC-Reader_v3.0.6.rpm",
+          "md5": "6d080e363ed3ff3c83f826ae556104b4"
+        },
+        "deb": {
+          "downloadUrl": "https://github.com/zhaodingmao/update/raw/main/SC-Reader_v3.0.6.deb",
+          "md5": "6d080e363ed3ff3c83f826ae556104b4"
+        }
+      },
+      "aarch64": {
+        "rpm": {
+          "downloadUrl": "https://github.com/zhaodingmao/update/raw/main/SC-Reader_v3.0.6.rpm",
+          "md5": "6d080e363ed3ff3c83f826ae556104b4"
+        },
+        "deb": {
+          "downloadUrl": "https://github.com/zhaodingmao/update/raw/main/SC-Reader_v3.0.6.deb",
+          "md5": "6d080e363ed3ff3c83f826ae556104b4"
+        }
+      },
+      "mips64": {
+        "rpm": {
+          "downloadUrl": "https://github.com/zhaodingmao/update/raw/main/SC-Reader_v3.0.6.rpm",
+          "md5": "6d080e363ed3ff3c83f826ae556104b4"
+        },
+        "deb": {
+          "downloadUrl": "https://github.com/zhaodingmao/update/raw/main/SC-Reader_v3.0.6.deb",
+          "md5": "6d080e363ed3ff3c83f826ae556104b4"
+        }
+      },
+      "loongarch64": {
+        "rpm": {
+          "downloadUrl": "https://github.com/zhaodingmao/update/raw/main/SC-Reader_v3.0.6.rpm",
+          "md5": "6d080e363ed3ff3c83f826ae556104b4"
+        },
+        "deb": {
+          "downloadUrl": "https://github.com/zhaodingmao/update/raw/main/SC-Reader_v3.0.6.deb",
+          "md5": "6d080e363ed3ff3c83f826ae556104b4"
+        }
+      }
+    },
+    "mac": {
+      "x86_64": {
+        "downloadUrl": "https://github.com/zhaodingmao/update/raw/main/SC-Reader_v3.0.6.dmg",
+        "md5": "6d080e363ed3ff3c83f826ae556104b4"
+      },
+      "arm64": {
+        "downloadUrl": "https://github.com/zhaodingmao/update/raw/main/SC-Reader_v3.0.6.dmg",
+        "md5": "6d080e363ed3ff3c83f826ae556104b4"
+      }
+    }
+  }
 }
